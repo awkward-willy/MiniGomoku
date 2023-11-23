@@ -102,7 +102,7 @@ if __name__ == "__main__":
         main_thread.daemon = True  # Set the thread as a daemon
         main_thread.start()
         while True:
-            user_input = input("Enter 'stop' to terminate the server: ")
+            user_input = input("Enter 'stop' to terminate the server: \n")
             if user_input.lower() == 'stop':
                 terminate_server = True
                 break
