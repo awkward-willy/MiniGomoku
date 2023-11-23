@@ -1,9 +1,9 @@
+import os
+os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "True"
 import threading
 from pygame.locals import QUIT, KEYDOWN
 import numpy as np
 import pygame
-import os
-os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "True"
 
 
 class Game:
