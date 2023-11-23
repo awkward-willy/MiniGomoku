@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="Resources">
+    <file>Background.png</file>
+    <file>Info.png</file>
+    <file>JoinRoom.png</file>
+    <file>JoinRoom_Disabled.png</file>
+    <file>RoomNumber.png</file>
+    <file>Title.png</file>
+  </qresource>
+</RCC>
