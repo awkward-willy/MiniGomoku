@@ -9,6 +9,7 @@ import pygame
 class Game:
     def __init__(self, client_socket, room_number, turn):
         pygame.init()
+        pygame.display.set_caption("五子棋遊戲")
         self.client_socket = client_socket
         self.room_number = room_number
 
