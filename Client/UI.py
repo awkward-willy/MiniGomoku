@@ -11,7 +11,7 @@ from PyQt6.QtCore import (QCoreApplication, QMetaObject, QSize, Qt)
 from PyQt6.QtCore import *
 from PyQt6.QtGui import (QFont, QPixmap)
 from PyQt6.QtWidgets import (
-    QGridLayout, QLabel, QLineEdit, QPushButton, QGraphicsColorizeEffect)
+    QGridLayout, QLabel, QLineEdit, QPushButton)
 import background_rc
 
 
